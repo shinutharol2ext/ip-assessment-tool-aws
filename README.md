@@ -1,6 +1,6 @@
 # IP Assessment Tool
 
-CLI tool that scans an entire AWS Organization to produce a consolidated inventory of active IP addresses, Elastic IPs, and VPC/Subnet CIDR allocations across all member accounts and regions. Designed to support IPAM Advanced Tier adoption decisions.
+CLI tool that scans an entire AWS Organization to produce a consolidated inventory of active IP addresses, Elastic IPs across all member accounts and regions. Designed to support IPAM Advanced Tier adoption decisions.
 
 ## Quick Start
 
